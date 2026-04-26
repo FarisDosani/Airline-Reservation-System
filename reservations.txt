@@ -1,0 +1,2 @@
+Passenger 1 | Name: faris | Age: 18 | Phone: 0 | Gender: M | Seat: 2 | Meal code: 1
+Passenger 1 | Name: Ali | Age: 19 | Phone: 321 | Gender: M | Seat: 4 | Meal code: 1
